@@ -3,7 +3,7 @@
 A modern, responsive yoga studio website built with **Vite**, **React**, and **Tailwind CSS** — featuring animated page transitions, custom component architecture, and a peaceful visual identity. This project simulates a real-world client build and showcases my frontend development capabilities.
 
 🔗 **Live Site:** [harmony-yoga-client.vercel.app](https://harmony-yoga-client.vercel.app)  
-🧠 **Portfolio:** [tleanne.dev](https://tleanne.dev)
+💻 **Portfolio:** [tleanne.dev](https://tleanne.dev)
 
 ---
 
